@@ -1,3 +1,5 @@
+# A piece of code to display even and odd numbers within a range of numbers
+
 #Defining a function to calculate the range of values.
 def calcValues(low_num,upper_num,choice):
     evenlist = []#Defining an even list array to hold even numbers
